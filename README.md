@@ -1,2 +1,3 @@
-# Debugging-Reference-Guide
-Reference Guide and Cheat Sheet How to Debug
+# How to Debug With IntelliJ and GDB
+
+
